@@ -1,4 +1,4 @@
-#Tue Feb 08 13:35:49 CET 2022
+#Fri Feb 10 19:36:34 CET 2023
 base.2=C\:\\Users\\Montse\\Desktop\\MaterialClasses\\PlXxa\\ProjectesAndroidAnteriors\\TestAccelerometre\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.2=7/classes.dex
 base.1=C\:\\Users\\Montse\\Desktop\\MaterialClasses\\PlXxa\\ProjectesAndroidAnteriors\\TestAccelerometre\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

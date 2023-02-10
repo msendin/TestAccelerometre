@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Montse\\Desktop\\MaterialClasses\\PlXxa\\ProjectesAndroidAnteriors\\TestAccelerometre\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "udl.eps.testaccelerometre.app-mergeDebugResources-19:/values-v14/values-v14.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Montse\\Desktop\\MaterialClasses\\PlXxa\\ProjectesAndroidAnteriors\\TestAccelerometre\\app\\src\\main\\res\\values-v14\\styles.xml",
@@ -19,7 +19,7 @@
                         "startOffsets": "55",
                         "endLines": "4",
                         "endColumns": "12",
-                        "endOffsets": "201"
+                        "endOffsets": "152"
                     }
                 }
             ]
